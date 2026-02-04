@@ -1,4 +1,4 @@
-# AMALIA LLM literature pointers.
+# AMALIA LLM literature pointers
 
 # Data pre-processing
 
