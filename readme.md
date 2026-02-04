@@ -8,15 +8,11 @@
 
 ## SFT
 
-Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation
-https://aclanthology.org/2025.emnlp-main.336/
+[Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation](https://aclanthology.org/2025.emnlp-main.336/)
 
-Evaluating Language Models as Synthetic Data Generators
-https://aclanthology.org/2025.acl-long.320/
+[Evaluating Language Models as Synthetic Data Generators](https://aclanthology.org/2025.acl-long.320/)
 
-How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition
-https://aclanthology.org/2024.acl-long.12/
-
+[How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition](https://aclanthology.org/2024.acl-long.12/)
 
 ## DPO
 
@@ -24,8 +20,7 @@ https://aclanthology.org/2024.acl-long.12/
 
 # Model upcycling
 
-XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts
-https://aclanthology.org/2024.acl-long.699/
+[XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts](https://aclanthology.org/2024.acl-long.699/)
 
 Navigating the Design Space of MoE LLM Inference Optimization
 https://openreview.net/forum?id=NzVAe0hvzq
