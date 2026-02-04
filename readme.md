@@ -30,7 +30,6 @@ https://aclanthology.org/2025.emnlp-main.1233/
 REVISITING MULTILINGUAL DATA MIXTURES IN LANGUAGE MODEL PRETRAINING
 https://openreview.net/pdf?id=IKJyRyHpHV
 
-
 ## DPO
 
 R.I.P.: Better Models by Survival of the Fittest Prompts
@@ -67,7 +66,7 @@ https://aclanthology.org/2025.acl-long.951/
 BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts
 https://proceedings.neurips.cc/paper_files/paper/2024/file/665bb142d4b9f55660cb89bb56a66fe1-Paper-Conference.pdf
 
-DROP-UPCYCLING: TRAINING SPARSE MIXTURE OFEXPERTS WITH PARTIAL RE-INITIALIZATION
+DROP-UPCYCLING: TRAINING SPARSE MIXTURE OF EXPERTS WITH PARTIAL RE-INITIALIZATION
 https://openreview.net/pdf?id=gx1wHnf5Vp#page=15.29
 
 Upcycling Large Language Models into Mixture of Experts
