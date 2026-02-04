@@ -6,6 +6,9 @@
 
 # Post-train
 
+Other collections of links:
+https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
+
 ## SFT
 
 Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation
