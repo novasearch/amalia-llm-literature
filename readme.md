@@ -7,7 +7,8 @@
 # Post-train
 
 Other collections of links:
-https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
+ - https://thinkingmachines.ai/blog/
+ - https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
 
 ## SFT
 
@@ -17,9 +18,38 @@ https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
 
 [How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition](https://aclanthology.org/2024.acl-long.12/)
 
+Generating Synthetic Data for LLM Post-Training
+https://www.jonvet.com/blog/llm-synthetic-data
+
+Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective
+https://arxiv.org/abs/2410.01720
+
+Following Length Constraints in Instructions
+https://aclanthology.org/2025.emnlp-main.1233/
+
+REVISITING MULTILINGUAL DATA MIXTURES IN LANGUAGE MODEL PRETRAINING
+https://openreview.net/pdf?id=IKJyRyHpHV
+
+
 ## DPO
 
+R.I.P.: Better Models by Survival of the Fittest Prompts
+https://arxiv.org/abs/2501.18578
+
+When Long Helps Short: How Context Length in Supervised Fine-tuning Affects Behavior of Large Language Models
+https://arxiv.org/abs/2509.18762v1
+
 ## RLVR
+
+
+## Tool calling
+
+Small Language Models for Efficient Agentic Tool Calling: Outperforming Large Models with Targeted Fine-tuning
+https://arxiv.org/abs/2512.15943
+
+FunctionGemma: Bringing bespoke function calling to the edge
+https://blog.google/innovation-and-ai/technology/developers-tools/functiongemma/
+
 
 # Model upcycling
 
